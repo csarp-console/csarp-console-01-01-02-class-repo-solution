@@ -1,4 +1,5 @@
-﻿using Kreta.Console.SchoolCitizens;
+﻿using Kreta.Console.Models.SchoolCitizens;
+using Kreta.Console.SchoolCitizens;
 
 namespace Kreta.Console.Repos
 {
